@@ -20,11 +20,11 @@
     "material design",
     "MaterialKit"
   ],
-  "homepage": "https://github.com/xinthink/react-native-material-kit",
-  "bugs": "https://github.com/xinthink/react-native-material-kit/issues",
+  "homepage": "https://github.com/muhammadarsal/rn-material-kit",
+  "bugs": "https://github.com/muhammadarsal/rn-material-kit/issues",
   "repository": {
     "type": "git",
-    "url": "git://github.com/xinthink/react-native-material-kit.git"
+    "url": "git://github.com/muhammadarsal/rn-material-kit.git"
   },
   "devDependencies": {
     "babel-eslint": "^6.0.2",
