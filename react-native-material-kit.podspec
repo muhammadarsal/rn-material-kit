@@ -14,4 +14,5 @@ Pod::Spec.new do |s|
   s.source_files = 'iOS/RCTMaterialKit/*'
   s.platform     = :ios, "8.0"
   s.dependency 'React'
+  #test
 end
